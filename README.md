@@ -12,7 +12,7 @@ License Under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.
 
 Only for release versions. For Beta/Preview versions user please click [here](https://github.com/SomethingStillWrong/mclangcn-beta).
 
-GitHub: [https://github.com/ff98sha/mclangcn](https://github.com/ff98sha/mclangcn)
+GitHub：[https://github.com/ff98sha/mclangcn](https://github.com/ff98sha/mclangcn)
 
 红石中继站：[https://www.mczwlt.net/resource/h6yhayqi](https://www.mczwlt.net/resource/h6yhayqi)
 
